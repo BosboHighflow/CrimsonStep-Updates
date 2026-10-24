@@ -1,0 +1,4 @@
+*.key
+*.keystore
+*.pck
+manifest-*.json
